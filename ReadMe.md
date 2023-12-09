@@ -8,7 +8,6 @@ Ce groupe est composé de :  Kénaël ROMERO   Arthur GUILLAUME    Louis JOUHANN
 
 Test conflit
 
-
 ## Commandes de bases sur Git
 
 git init                                Initialise le dépôt
@@ -21,3 +20,12 @@ git diff                                Affiche les modifs
 git log                                 Affiche l'historique avec l'ID des commits
 git checkout IDCommit                   Reviens sur une versions plus ancienne en lecture seule
 git checkout main                       Retour à la version actuelle
+
+### Branches
+
+git log --graph                        Historique
+git checkout -b nomDeBranche           Créer une branche
+git checkout branche                   Se déplace dans une branche 
+git log --all --graph                  Historique
+git merge branche                      rattache la branche au main
+git -d 
