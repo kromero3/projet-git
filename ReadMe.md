@@ -43,6 +43,3 @@ Ce groupe est composé de :
 
 - `git log --grep`
 - `git log -p -S`
-
-
-N'importe quoi
