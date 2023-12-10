@@ -46,6 +46,3 @@ J'ai mangé une pomme et maintenant elle est plus la
 
 - `git log --grep`
 - `git log -p -S`
-
-
-N'importe quoi
