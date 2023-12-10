@@ -29,3 +29,15 @@ Test conflit
 - `git log --all --graph` : Historique
 - `git merge branche` : rattache la branche au main
 - `git -d`
+
+### Fonctions secondaires
+
+git restore "fichier"                  Supprimer les changements dans l'espace de travail
+git restore -staged "fichier"          à faire si le fichier est le fichier est en attente de commit
+git clean -f                           Force la suppression des fichiers non suivis
+
+git stash                              Met un sujet "sur le côté"
+git stash pop                          Décharge la pile
+
+git log --grep
+git log -p -S
