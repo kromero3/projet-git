@@ -10,8 +10,6 @@ Ce groupe est composé de :
 - Louis JOUHANNET (LouisR6s)
 - Vincent GAILLARD (gail0045)
 
-Test conflit
-
 ## Commandes de bases sur Git
 
 - `git init`							   Initialise le dépôt
