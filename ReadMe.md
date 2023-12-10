@@ -10,8 +10,6 @@ Ce groupe est composé de :
 - Louis JOUHANNET (LouisR6s)
 - Vincent GAILLARD (gail0045)
 
-J'ai mangé une pomme et maintenant elle est plus la 
-
 
 ## Commandes de bases sur Git
 
